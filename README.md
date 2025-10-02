@@ -42,7 +42,7 @@
 ## **🌐 Let's Connect & Build**
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahulawathi128" target="_blank">
+  <a href="https://linkedin.com/in/rahulawathii128" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rahulawasthi128@gmail.com" target="_blank">
