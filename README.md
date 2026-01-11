@@ -30,7 +30,6 @@
 
 ---
 
-## **📈 My GitHub Pulse**
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulawasthi128&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Rahul's GitHub Stats" height="180em" />
@@ -42,13 +41,13 @@
   <img src="https://streak-stats.demolab.com?user=rahulawasthi128&theme=gotham&hide_border=true" height="180em"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulawasthi128&show_icons=true&theme=gotham&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahulawasthi128&theme=gotham&hide_border=true)
 
-</p>
+</p> -->
 
 
 ---
